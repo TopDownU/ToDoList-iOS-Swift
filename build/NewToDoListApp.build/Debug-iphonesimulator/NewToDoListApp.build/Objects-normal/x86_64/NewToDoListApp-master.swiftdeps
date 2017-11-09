@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "f35ed7eacfff7f687797998bc69346eb"
+build_time: [1510268093, 492369000]
+inputs:
+  "/Users/Vidyadhar/Desktop/NewToDoListApp/NewToDoListApp/ViewController.swift": [1510268089, 0]
+  "/Users/Vidyadhar/Desktop/NewToDoListApp/NewToDoListApp/AppDelegate.swift": [1509555950, 0]
+  "/Users/Vidyadhar/Desktop/NewToDoListApp/build/NewToDoListApp.build/Debug-iphonesimulator/NewToDoListApp.build/DerivedSources/CoreDataGenerated/NewToDoListApp/Tasks+CoreDataClass.swift": [1509556530, 0]
+  "/Users/Vidyadhar/Desktop/NewToDoListApp/build/NewToDoListApp.build/Debug-iphonesimulator/NewToDoListApp.build/DerivedSources/CoreDataGenerated/NewToDoListApp/Tasks+CoreDataProperties.swift": [1509556530, 0]
+  "/Users/Vidyadhar/Desktop/NewToDoListApp/build/NewToDoListApp.build/Debug-iphonesimulator/NewToDoListApp.build/DerivedSources/CoreDataGenerated/NewToDoListApp/NewToDoListApp+CoreDataModel.swift": [1509556530, 0]
